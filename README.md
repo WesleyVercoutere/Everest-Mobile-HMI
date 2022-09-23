@@ -1,1 +1,1 @@
-# Everest-Mobile-HMI
+# Everest Mobile HMI
